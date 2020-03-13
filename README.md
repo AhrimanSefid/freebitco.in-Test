@@ -2,7 +2,7 @@ freebitco.in-Test
 
 any browser google chrome, internet explorer, mozilla, opera.
 
-http://freebitco.in/ Bot AUTO collect 100% Succes rate
+https://freebitco.in/?r=36837445 Bot AUTO collect 100% Succes rate
 
 Install tampermonkey https://www.tampermonkey.net
 
